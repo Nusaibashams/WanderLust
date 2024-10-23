@@ -4,7 +4,8 @@ WanderLust is a web application that connects travelers with unique  experiences
 
 ## Live Demo
 
-Check out the live version of the project here: [WanderLust](https://wanderlust-ppaq.onrender.com)
+🌍🚀 Check out WanderLust Live: https://wanderlust-ppaq.onrender.com/listings 🎒✨
+
 
 ## Features
 
